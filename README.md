@@ -1,3 +1,2 @@
 # HelloWorld
-This repository is for practicing the GitHub Flow.
 My name is Jacquelin Boza, and I am from Lima, Peru. I am currently majoring in Digital Marketing at Ensign College. I chose to study at Ensign College because friends who attended shared how it offers both a spiritually enriching environment and high-quality education. After taking several classes, I can confidently say that Ensign College is a wonderful place to grow both spiritually and academically. The small class sizes foster close relationships with classmates and professors, which I truly appreciate.
